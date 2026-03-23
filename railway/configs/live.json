@@ -140,7 +140,7 @@
         "forced_mode_short": "",
         "ignored_coins": {"long":[],"short":[]},
         "inactive_coin_candle_ttl_minutes": 10,
-        "leverage": 20,
+        "leverage": 10,
         "market_orders_allowed": false,
         "max_disk_candles_per_symbol_per_tf": 2000000,
         "max_memory_candles_per_symbol": 200000,
